@@ -1,0 +1,77 @@
+.background{
+    background-image:url(signup2.jpg);
+    height:94vh;
+    width: 99%;
+    background-position: center;
+    background-size: cover;
+    background-position: no-repeat;
+}
+.table{
+    height: 70%;
+    width:35%;
+    margin-top: 2%;
+    margin-left:35%;
+    box-shadow:inset 100px 100px 100px 100px rgb(0, 0, 0, 0.61);
+}
+.check{
+    font-family:Informal Roman;
+    color: white;
+    font-size: 80px;
+    margin-top: 5%;
+    margin-left: 15%;
+    float: left;
+
+}
+.iq{
+    height: 15%;
+    width: 15%;
+    float: right;
+    margin-top: 5%;
+    margin-right:10% ;
+}
+#iq{
+    width: 100%;
+    height: 100%;
+}
+.signup{
+    width: 25%;
+    height: 15%;
+    font-family: Bodoni MT ;
+    font-size: 40px;
+    margin-top:7%;
+    margin-left:40%;
+    padding-top: 20%;
+    text-align:center;
+    color:white;
+}
+.text{
+    margin-top:2%;
+    margin-left:20%;
+}
+#text{
+    height: 7%;
+    width:80%;
+    text-align: center;
+    font-size:15px;
+    font-family: Exodus Demo;
+}
+.button{
+    margin-top:2%;    
+    margin-left:40%;
+}
+#button{
+    height: 6%;
+    width:40%;
+    font-size:20px;
+    font-family: Exodus Demo;
+}
+.button1{
+    margin-top:2%;
+    margin-left:43%;
+}
+#button1{
+    height: 6%;
+    width:40%;
+    font-size:20px;
+    font-family:Exodus Demo;
+}
